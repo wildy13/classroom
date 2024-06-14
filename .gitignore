@@ -1,0 +1,71 @@
+# .NET
+*.obj
+*.exe
+*.dll
+*.pdb
+*.user
+
+# Visual Studio files
+.vs/
+*.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+*.bak
+*.cache
+*.log
+
+# Resharper
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+
+# NuGet
+packages/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# SQLite database file
+*.sqlite
+*.db
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Aa][Rr][Mm]_x64/
+build/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Logs
+*.log
